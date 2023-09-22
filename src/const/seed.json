@@ -1,0 +1,2422 @@
+[
+  {
+    "anime": [
+      {
+        "id": "d955f0b0-8747-474a-b7d2-62298f4307e0",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T10:49:10.912Z",
+        "episodes": 77006,
+        "duration": 68727,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T17:14:02.859Z",
+        "updated_at": "2023-09-21T22:53:40.492Z"
+      },
+      {
+        "id": "2461750a-8161-4cac-a87b-7f5da937cae2",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T19:55:19.768Z",
+        "episodes": 67425,
+        "duration": 29697,
+        "status": "Completed",
+        "created_at": "2023-09-21T22:19:21.252Z",
+        "updated_at": "2023-09-21T12:05:17.534Z"
+      },
+      {
+        "id": "89874900-05cc-47b9-849a-3eee8b8791d0",
+        "title": "Naruto",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T10:58:50.256Z",
+        "episodes": 6189,
+        "duration": 30251,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T02:42:54.455Z",
+        "updated_at": "2023-09-21T02:25:26.798Z"
+      },
+      {
+        "id": "aba2ee84-cede-4a78-8c83-0a462d76be37",
+        "title": "Dragon Ball Z",
+        "genre": "Mystery",
+        "release_date": "2023-09-21T12:07:51.468Z",
+        "episodes": 70793,
+        "duration": 38649,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T18:05:03.810Z",
+        "updated_at": "2023-09-21T05:18:41.412Z"
+      },
+      {
+        "id": "85cbc0de-1838-4e50-ab85-fb574951f764",
+        "title": "Death Note",
+        "genre": "Sci-Fi",
+        "release_date": "2023-09-21T14:55:51.794Z",
+        "episodes": 51567,
+        "duration": 10962,
+        "status": "Upcoming",
+        "created_at": "2023-09-22T00:41:04.073Z",
+        "updated_at": "2023-09-21T17:35:40.871Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "c916b768-56ba-44b8-b32c-e66d165353fe",
+        "created_at": "2023-09-21T14:58:34.091Z",
+        "updated_at": "2023-09-21T20:55:54.728Z",
+        "anime_id": "2461750a-8161-4cac-a87b-7f5da937cae2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8609b775-eb85-4623-b92f-9d2955a7a85c",
+        "created_at": "2023-09-21T18:08:19.349Z",
+        "updated_at": "2023-09-21T21:27:56.396Z",
+        "anime_id": "2461750a-8161-4cac-a87b-7f5da937cae2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cdf8c4e5-abf4-4287-97a3-011c4f6475a9",
+        "created_at": "2023-09-21T12:25:11.170Z",
+        "updated_at": "2023-09-21T12:29:28.414Z",
+        "anime_id": "d955f0b0-8747-474a-b7d2-62298f4307e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ca1df57-6087-4d86-8f47-9b1c96347ef8",
+        "created_at": "2023-09-22T00:58:43.470Z",
+        "updated_at": "2023-09-21T09:59:34.965Z",
+        "anime_id": "d955f0b0-8747-474a-b7d2-62298f4307e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bde0ab8c-8f59-4a49-ab1f-2460753c7c8a",
+        "created_at": "2023-09-21T13:28:47.912Z",
+        "updated_at": "2023-09-21T09:53:29.484Z",
+        "anime_id": "2461750a-8161-4cac-a87b-7f5da937cae2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "48c5b6f3-9ccb-4fd5-b52b-736db88fe5b6",
+        "title": "Great Anime",
+        "content": "I absolutely loved this anime!",
+        "rating": 34090,
+        "created_at": "2023-09-22T00:45:49.129Z",
+        "updated_at": "2023-09-21T22:34:54.375Z",
+        "anime_id": "aba2ee84-cede-4a78-8c83-0a462d76be37",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dcb17c91-1263-432c-b42f-05e35f4f33d6",
+        "title": "Must-Watch Series",
+        "content": "The plot twists kept me on the edge of my seat.",
+        "rating": 45021,
+        "created_at": "2023-09-21T14:43:06.690Z",
+        "updated_at": "2023-09-21T10:42:04.960Z",
+        "anime_id": "2461750a-8161-4cac-a87b-7f5da937cae2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "817390bf-1607-4777-aabc-3be32e85261d",
+        "title": "Incredible Storyline",
+        "content": "The animation quality is top-notch.",
+        "rating": 99169,
+        "created_at": "2023-09-21T23:09:25.725Z",
+        "updated_at": "2023-09-21T18:11:53.679Z",
+        "anime_id": "85cbc0de-1838-4e50-ab85-fb574951f764",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7fc3494-6d1b-4cfa-98ba-78cf997716ee",
+        "title": "Amazing Characters",
+        "content": "The voice acting is superb.",
+        "rating": 31684,
+        "created_at": "2023-09-21T15:48:12.604Z",
+        "updated_at": "2023-09-21T12:57:16.416Z",
+        "anime_id": "85cbc0de-1838-4e50-ab85-fb574951f764",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e80fbb10-1b8b-4a92-9f60-0764ae6e1b83",
+        "title": "Highly Recommended",
+        "content": "I can't wait for the next season!",
+        "rating": 92603,
+        "created_at": "2023-09-21T06:12:49.369Z",
+        "updated_at": "2023-09-21T10:45:33.135Z",
+        "anime_id": "89874900-05cc-47b9-849a-3eee8b8791d0",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "f2909eb9-68b7-4da1-bdac-ab0cdafcc927",
+        "action": "Warning",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-21T06:01:37.957Z",
+        "updated_at": "2023-09-22T00:30:18.737Z",
+        "review_id": "817390bf-1607-4777-aabc-3be32e85261d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00215d07-e24e-4864-938b-a6fdd2e84337",
+        "action": "Suspension",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T20:45:29.998Z",
+        "updated_at": "2023-09-21T05:04:59.656Z",
+        "review_id": "dcb17c91-1263-432c-b42f-05e35f4f33d6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab6c70a4-88fd-4a61-accc-e159b6ba4b23",
+        "action": "Ban",
+        "reason": "Harassment",
+        "created_at": "2023-09-22T00:07:54.515Z",
+        "updated_at": "2023-09-21T03:08:55.522Z",
+        "review_id": "817390bf-1607-4777-aabc-3be32e85261d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89643aba-3bbe-4459-ab2d-285dc5b1f3ba",
+        "action": "Deletion",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-21T09:30:58.080Z",
+        "updated_at": "2023-09-21T17:13:49.713Z",
+        "review_id": "48c5b6f3-9ccb-4fd5-b52b-736db88fe5b6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70a1f3c5-11c5-4e8f-a825-156a35d2c0f4",
+        "action": "Mute",
+        "reason": "Impersonation",
+        "created_at": "2023-09-21T17:33:08.283Z",
+        "updated_at": "2023-09-21T20:35:25.956Z",
+        "review_id": "a7fc3494-6d1b-4cfa-98ba-78cf997716ee",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "99f5bd50-1f91-44d2-ac9a-297cc9442c23",
+        "email": "Maggie.Rempel@roq.tech",
+        "firstName": "Hollie",
+        "lastName": "Dickens-Dare",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93512097",
+        "tenantId": null
+      },
+      {
+        "reference": "41fed80a-7754-4a4f-9158-d9d51abc13f9",
+        "email": "Joanie.Rolfson57@roq.tech",
+        "firstName": "Delilah",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1131.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "db503f2e-fc17-4687-a044-b4f7f61f980e",
+        "email": "Jaleel_Johnston66@roq.tech",
+        "firstName": "Henri",
+        "lastName": "Kris",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1014.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a00a583f-b651-4d0b-bc18-2393ea99575b",
+        "email": "Brett_Herzog61@roq.tech",
+        "firstName": "Jerald",
+        "lastName": "Yundt-Jakubowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/733.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4cd0cdbe-e081-445a-8e63-fd2875759e7e",
+        "email": "Lacy_Kuhic0@roq.tech",
+        "firstName": "Renee",
+        "lastName": "Gislason",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/429.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "3b0fb1fb-6691-49ee-a0be-d989a56e3b0d",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T10:35:10.600Z",
+        "episodes": 3789,
+        "duration": 45931,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T11:15:21.897Z",
+        "updated_at": "2023-09-21T12:01:11.185Z"
+      },
+      {
+        "id": "6295b29a-288a-4482-a51a-81ce6839931b",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T09:33:48.172Z",
+        "episodes": 48706,
+        "duration": 49251,
+        "status": "Completed",
+        "created_at": "2023-09-21T22:20:21.799Z",
+        "updated_at": "2023-09-21T23:47:11.105Z"
+      },
+      {
+        "id": "1a5776bc-7dc6-426b-9ae1-cc82d7d49879",
+        "title": "Naruto",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T19:13:06.910Z",
+        "episodes": 5569,
+        "duration": 75461,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T12:57:04.642Z",
+        "updated_at": "2023-09-21T19:37:41.679Z"
+      },
+      {
+        "id": "bca20828-478f-4d45-b5f5-4a15963a3479",
+        "title": "Death Note",
+        "genre": "Mystery",
+        "release_date": "2023-09-21T02:39:02.492Z",
+        "episodes": 85617,
+        "duration": 13150,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T17:34:49.533Z",
+        "updated_at": "2023-09-21T03:10:54.945Z"
+      },
+      {
+        "id": "27041538-a740-4902-9683-721678ce7271",
+        "title": "Dragon Ball Z",
+        "genre": "Sci-Fi",
+        "release_date": "2023-09-21T19:25:30.641Z",
+        "episodes": 91288,
+        "duration": 80521,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T06:38:38.248Z",
+        "updated_at": "2023-09-21T21:56:21.642Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "a4a8fc78-c58c-44f2-a99a-fc7ff5cc5339",
+        "created_at": "2023-09-21T18:50:47.454Z",
+        "updated_at": "2023-09-21T09:54:06.279Z",
+        "anime_id": "27041538-a740-4902-9683-721678ce7271",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9508cc7-24c0-4e93-aa45-ac0a26a0b3f6",
+        "created_at": "2023-09-21T14:27:54.021Z",
+        "updated_at": "2023-09-21T18:17:52.457Z",
+        "anime_id": "3b0fb1fb-6691-49ee-a0be-d989a56e3b0d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0283f3b-9e4f-496f-9847-49b24a3434b7",
+        "created_at": "2023-09-21T03:39:08.072Z",
+        "updated_at": "2023-09-21T16:26:59.209Z",
+        "anime_id": "bca20828-478f-4d45-b5f5-4a15963a3479",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "354296d2-ad8b-4834-8fb4-f47e38d8f144",
+        "created_at": "2023-09-21T04:32:11.226Z",
+        "updated_at": "2023-09-22T01:31:18.359Z",
+        "anime_id": "1a5776bc-7dc6-426b-9ae1-cc82d7d49879",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d05b5bac-7b59-416d-bb28-96549f0a83db",
+        "created_at": "2023-09-21T07:34:45.306Z",
+        "updated_at": "2023-09-21T17:34:45.501Z",
+        "anime_id": "bca20828-478f-4d45-b5f5-4a15963a3479",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "debce218-e60b-46c3-9472-d65cc468a6d1",
+        "title": "Great Anime!",
+        "content": "I loved the characters and storyline.",
+        "rating": 29856,
+        "created_at": "2023-09-22T01:26:08.739Z",
+        "updated_at": "2023-09-21T19:12:42.834Z",
+        "anime_id": "3b0fb1fb-6691-49ee-a0be-d989a56e3b0d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e6ed00d5-68e6-4713-98fe-db00ef43a355",
+        "title": "Highly Recommended",
+        "content": "The animation quality was top-notch.",
+        "rating": 31862,
+        "created_at": "2023-09-21T16:42:11.923Z",
+        "updated_at": "2023-09-22T00:45:57.509Z",
+        "anime_id": "3b0fb1fb-6691-49ee-a0be-d989a56e3b0d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26a1e68e-9504-4961-8347-88d8e46dbd8c",
+        "title": "Must Watch",
+        "content": "The plot kept me hooked till the end.",
+        "rating": 38971,
+        "created_at": "2023-09-21T13:02:12.852Z",
+        "updated_at": "2023-09-21T17:35:56.998Z",
+        "anime_id": "6295b29a-288a-4482-a51a-81ce6839931b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "379104fe-8561-4012-9b4e-0adac4b313e4",
+        "title": "Disappointing",
+        "content": "The ending was a bit rushed.",
+        "rating": 3071,
+        "created_at": "2023-09-21T15:33:10.375Z",
+        "updated_at": "2023-09-21T21:37:30.488Z",
+        "anime_id": "bca20828-478f-4d45-b5f5-4a15963a3479",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd0debda-89b5-48ae-89ef-84e0264c0fbd",
+        "title": "Unexpected Twist",
+        "content": "The plot twist caught me by surprise.",
+        "rating": 59245,
+        "created_at": "2023-09-21T08:59:05.314Z",
+        "updated_at": "2023-09-21T05:12:02.404Z",
+        "anime_id": "3b0fb1fb-6691-49ee-a0be-d989a56e3b0d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "43bb2a6d-f777-4f39-b58f-81f3b1ed0ff5",
+        "action": "Warning",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-21T05:55:39.486Z",
+        "updated_at": "2023-09-21T07:48:58.021Z",
+        "review_id": "fd0debda-89b5-48ae-89ef-84e0264c0fbd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d0bca23-a4e8-4a20-8429-b7bb9612a902",
+        "action": "Suspension",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T20:50:26.035Z",
+        "updated_at": "2023-09-21T16:33:17.291Z",
+        "review_id": "379104fe-8561-4012-9b4e-0adac4b313e4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9bf42ef9-8ec5-43d2-adbf-eb266d357fce",
+        "action": "Ban",
+        "reason": "Harassment",
+        "created_at": "2023-09-21T08:05:38.864Z",
+        "updated_at": "2023-09-21T17:53:11.851Z",
+        "review_id": "e6ed00d5-68e6-4713-98fe-db00ef43a355",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96f7c5ff-89ec-4dc0-a2e5-c9e9d000c618",
+        "action": "Deletion",
+        "reason": "Violation of guidelines",
+        "created_at": "2023-09-21T19:46:34.227Z",
+        "updated_at": "2023-09-21T22:04:35.046Z",
+        "review_id": "debce218-e60b-46c3-9472-d65cc468a6d1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38d04c5c-85f3-4461-a0f2-063cece2002e",
+        "action": "Editing",
+        "reason": "False information",
+        "created_at": "2023-09-21T22:40:24.589Z",
+        "updated_at": "2023-09-21T17:35:21.214Z",
+        "review_id": "fd0debda-89b5-48ae-89ef-84e0264c0fbd",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f9d78e07-3590-430f-892a-0b18edbcd1f1",
+        "email": "Gilda.Schimmel@roq.tech",
+        "firstName": "Angel",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/882.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e6527344-a5b4-4dd7-bf62-ea150e8c63df",
+        "email": "Roberta_Bruen@roq.tech",
+        "firstName": "Ruthe",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1177.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "da3127b7-1a79-495e-ba87-c11ff69951a0",
+        "email": "Vern_Heller69@roq.tech",
+        "firstName": "Jacques",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/690.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b9644b87-4995-4f53-b550-5641078d125d",
+        "email": "Amanda_Flatley44@roq.tech",
+        "firstName": "Jason",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20203848",
+        "tenantId": null
+      },
+      {
+        "reference": "1ad66773-c276-42b3-a44c-e0d10c593021",
+        "email": "Elmore95@roq.tech",
+        "firstName": "Eulah",
+        "lastName": "Turner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/787.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "66c1a961-b783-4209-8b68-7e1eddfc66bf",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T19:58:40.085Z",
+        "episodes": 14835,
+        "duration": 62108,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T20:23:58.127Z",
+        "updated_at": "2023-09-21T23:11:13.380Z"
+      },
+      {
+        "id": "24150a28-f541-4f47-8433-04118ef13141",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-22T00:08:24.639Z",
+        "episodes": 5504,
+        "duration": 639,
+        "status": "Completed",
+        "created_at": "2023-09-22T00:25:39.963Z",
+        "updated_at": "2023-09-21T18:59:31.694Z"
+      },
+      {
+        "id": "9fb6c20c-9dc5-4a5b-8308-261e2a5b7190",
+        "title": "Naruto",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T13:19:49.005Z",
+        "episodes": 19676,
+        "duration": 98243,
+        "status": "On Hold",
+        "created_at": "2023-09-21T13:23:24.916Z",
+        "updated_at": "2023-09-21T10:26:17.749Z"
+      },
+      {
+        "id": "3f6dec42-ce68-4b84-8fce-98cf07b75c44",
+        "title": "Death Note",
+        "genre": "Mystery",
+        "release_date": "2023-09-21T22:11:32.894Z",
+        "episodes": 75697,
+        "duration": 97109,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T13:29:33.401Z",
+        "updated_at": "2023-09-21T08:03:15.554Z"
+      },
+      {
+        "id": "9bacd1a7-4ed5-4452-a083-ab9dc1d4c4ff",
+        "title": "Dragon Ball",
+        "genre": "Sci-Fi",
+        "release_date": "2023-09-21T20:49:32.509Z",
+        "episodes": 12110,
+        "duration": 42951,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T05:32:38.506Z",
+        "updated_at": "2023-09-21T13:00:10.031Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "b5ae3894-3791-45aa-b879-5e5ebe791c07",
+        "created_at": "2023-09-21T08:48:22.206Z",
+        "updated_at": "2023-09-21T03:13:30.399Z",
+        "anime_id": "9fb6c20c-9dc5-4a5b-8308-261e2a5b7190",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9b7cd897-bbd7-4049-988e-f9a14f67f491",
+        "created_at": "2023-09-21T21:57:03.497Z",
+        "updated_at": "2023-09-21T18:15:47.763Z",
+        "anime_id": "24150a28-f541-4f47-8433-04118ef13141",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "053abede-72bd-4c94-a318-6ce9b6d057c4",
+        "created_at": "2023-09-21T06:14:26.553Z",
+        "updated_at": "2023-09-21T14:36:52.293Z",
+        "anime_id": "24150a28-f541-4f47-8433-04118ef13141",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c827a15e-aa9d-4696-93a8-20be370f0464",
+        "created_at": "2023-09-21T06:14:33.111Z",
+        "updated_at": "2023-09-22T02:08:53.296Z",
+        "anime_id": "24150a28-f541-4f47-8433-04118ef13141",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbcf6250-e909-4cdc-b4bf-69f3cc4f409d",
+        "created_at": "2023-09-21T17:05:03.955Z",
+        "updated_at": "2023-09-21T03:39:58.863Z",
+        "anime_id": "9bacd1a7-4ed5-4452-a083-ab9dc1d4c4ff",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "bc83d458-b0b3-4c0d-826f-ae95ff975c50",
+        "title": "Great anime!",
+        "content": "The plot is captivating and the animation is top-notch.",
+        "rating": 12535,
+        "created_at": "2023-09-21T03:58:50.731Z",
+        "updated_at": "2023-09-22T01:31:13.081Z",
+        "anime_id": "3f6dec42-ce68-4b84-8fce-98cf07b75c44",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "379ae531-d227-4921-9ccd-20e217d00973",
+        "title": "Highly recommended",
+        "content": "The characters are well-developed and the storyline keeps you hooked.",
+        "rating": 88435,
+        "created_at": "2023-09-21T05:51:31.632Z",
+        "updated_at": "2023-09-21T17:02:14.888Z",
+        "anime_id": "9bacd1a7-4ed5-4452-a083-ab9dc1d4c4ff",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ed99e0e-e302-4ac6-a8b8-4410a98677c0",
+        "title": "Disappointing",
+        "content": "I expected more from this anime. It fell short of my expectations.",
+        "rating": 87282,
+        "created_at": "2023-09-21T12:27:53.969Z",
+        "updated_at": "2023-09-21T17:33:49.295Z",
+        "anime_id": "24150a28-f541-4f47-8433-04118ef13141",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "343d5cc6-c576-4157-8c7b-08b6f20c0bc2",
+        "title": "Must-watch",
+        "content": "This anime is a masterpiece. I couldn't stop watching.",
+        "rating": 84969,
+        "created_at": "2023-09-21T15:34:37.339Z",
+        "updated_at": "2023-09-22T01:32:12.373Z",
+        "anime_id": "66c1a961-b783-4209-8b68-7e1eddfc66bf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b08f57a3-9158-477d-83a3-47a5d3837025",
+        "title": "Average",
+        "content": "The anime has its moments, but overall it's just okay.",
+        "rating": 51108,
+        "created_at": "2023-09-21T06:16:17.305Z",
+        "updated_at": "2023-09-21T23:18:37.107Z",
+        "anime_id": "3f6dec42-ce68-4b84-8fce-98cf07b75c44",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "44a4559c-0dd4-4c61-9fa7-cb6f9afba73d",
+        "action": "Delete",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-21T15:18:30.319Z",
+        "updated_at": "2023-09-21T12:08:23.500Z",
+        "review_id": "b08f57a3-9158-477d-83a3-47a5d3837025",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a63668f-d0c3-4138-a0c8-436b7c1bb48a",
+        "action": "Ban",
+        "reason": "Spamming",
+        "created_at": "2023-09-22T01:50:58.171Z",
+        "updated_at": "2023-09-21T06:29:30.010Z",
+        "review_id": "bc83d458-b0b3-4c0d-826f-ae95ff975c50",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e31986c-c297-47a1-88fd-12d4ca6d429b",
+        "action": "Warn",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-21T03:11:15.260Z",
+        "updated_at": "2023-09-21T02:32:20.496Z",
+        "review_id": "379ae531-d227-4921-9ccd-20e217d00973",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "faa2193f-fa27-463a-9193-ff11305a624c",
+        "action": "Suspend",
+        "reason": "Harassment",
+        "created_at": "2023-09-21T22:44:53.410Z",
+        "updated_at": "2023-09-21T19:55:13.535Z",
+        "review_id": "b08f57a3-9158-477d-83a3-47a5d3837025",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab3701e3-d05f-400a-854d-0316c036c4f8",
+        "action": "Investigate",
+        "reason": "Fake account",
+        "created_at": "2023-09-21T15:13:07.782Z",
+        "updated_at": "2023-09-21T06:45:48.686Z",
+        "review_id": "b08f57a3-9158-477d-83a3-47a5d3837025",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "92f86d3b-e4dc-4313-a617-aae4816c70d1",
+        "email": "Elva_Lynch76@roq.tech",
+        "firstName": "Ona",
+        "lastName": "Koss",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/920.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9d056a42-8bf8-4e4e-bfee-1b02539f789e",
+        "email": "Muriel88@roq.tech",
+        "firstName": "Jerome",
+        "lastName": "Swaniawski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63629365",
+        "tenantId": null
+      },
+      {
+        "reference": "ff2ed123-ee99-4ce9-ab49-f46211d2fb03",
+        "email": "Vito_Stiedemann40@roq.tech",
+        "firstName": "Teresa",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/76.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "54763d55-cb46-4394-a4f8-8c176fd43f5f",
+        "email": "Joaquin.Stamm@roq.tech",
+        "firstName": "Ross",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1183.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3845c526-03ae-428e-b86d-102748ae44c3",
+        "email": "Elisha.Miller@roq.tech",
+        "firstName": "Isom",
+        "lastName": "Simonis-Boyer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1056.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "51882fe8-cd04-4a8b-876c-3f846704852e",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T19:46:06.428Z",
+        "episodes": 22168,
+        "duration": 55235,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T17:54:25.627Z",
+        "updated_at": "2023-09-21T21:29:38.732Z"
+      },
+      {
+        "id": "d05ac163-e3a6-4578-81be-bd486f71b6d3",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-22T00:29:34.061Z",
+        "episodes": 82651,
+        "duration": 43187,
+        "status": "Completed",
+        "created_at": "2023-09-21T07:16:02.242Z",
+        "updated_at": "2023-09-21T21:33:29.600Z"
+      },
+      {
+        "id": "fc43d286-86d0-46e6-938b-55b57c10b074",
+        "title": "Naruto",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T20:46:01.183Z",
+        "episodes": 92591,
+        "duration": 22102,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T18:52:21.132Z",
+        "updated_at": "2023-09-21T23:32:46.862Z"
+      },
+      {
+        "id": "00173b0f-e00a-4667-9b05-d6f69c00c96e",
+        "title": "Dragon Ball Z",
+        "genre": "Mystery",
+        "release_date": "2023-09-21T13:27:29.010Z",
+        "episodes": 8252,
+        "duration": 55611,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T23:27:48.788Z",
+        "updated_at": "2023-09-22T00:29:13.556Z"
+      },
+      {
+        "id": "3881652b-0029-43fe-99f8-cf0a8dfb9dab",
+        "title": "Death Note",
+        "genre": "Thriller",
+        "release_date": "2023-09-21T16:06:00.739Z",
+        "episodes": 14308,
+        "duration": 28646,
+        "status": "Cancelled",
+        "created_at": "2023-09-22T01:56:41.019Z",
+        "updated_at": "2023-09-21T16:29:30.732Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "5937633c-16d3-4cab-a99b-bd830c7e6aaf",
+        "created_at": "2023-09-21T20:36:29.816Z",
+        "updated_at": "2023-09-21T18:50:53.051Z",
+        "anime_id": "3881652b-0029-43fe-99f8-cf0a8dfb9dab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4a53c9b-8c5f-4d4f-9692-f6467a684e5a",
+        "created_at": "2023-09-22T00:56:33.786Z",
+        "updated_at": "2023-09-21T08:18:16.675Z",
+        "anime_id": "fc43d286-86d0-46e6-938b-55b57c10b074",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66cf8209-1718-4657-8b7e-a03b6da51c6b",
+        "created_at": "2023-09-21T13:53:13.156Z",
+        "updated_at": "2023-09-21T03:45:14.794Z",
+        "anime_id": "d05ac163-e3a6-4578-81be-bd486f71b6d3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f042162-8f97-4f9d-b956-b01899e1ba10",
+        "created_at": "2023-09-21T07:23:13.302Z",
+        "updated_at": "2023-09-21T07:05:55.310Z",
+        "anime_id": "51882fe8-cd04-4a8b-876c-3f846704852e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b95058aa-4111-4d62-b698-af7b0fb6ca73",
+        "created_at": "2023-09-21T08:15:02.486Z",
+        "updated_at": "2023-09-21T16:10:50.379Z",
+        "anime_id": "00173b0f-e00a-4667-9b05-d6f69c00c96e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "432e24b1-a614-4ddd-9fcf-b64c504f4e11",
+        "title": "Amazing Anime",
+        "content": "I was hooked from the first episode!",
+        "rating": 8525,
+        "created_at": "2023-09-21T11:40:08.971Z",
+        "updated_at": "2023-09-21T21:09:35.768Z",
+        "anime_id": "d05ac163-e3a6-4578-81be-bd486f71b6d3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a0bba42-a365-4ec5-a608-9fad20cb9867",
+        "title": "Highly Recommended",
+        "content": "The plot twists kept me on the edge of my seat.",
+        "rating": 20093,
+        "created_at": "2023-09-21T10:25:11.489Z",
+        "updated_at": "2023-09-21T06:20:27.685Z",
+        "anime_id": "fc43d286-86d0-46e6-938b-55b57c10b074",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a990d18-77f8-4406-90f8-4d740bac2da9",
+        "title": "Incredible Storyline",
+        "content": "The animation quality is top-notch.",
+        "rating": 92843,
+        "created_at": "2023-09-22T01:36:26.639Z",
+        "updated_at": "2023-09-21T10:53:16.076Z",
+        "anime_id": "3881652b-0029-43fe-99f8-cf0a8dfb9dab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1de1a4db-bf5b-4abe-b8f5-6d703e84afab",
+        "title": "Great Characters",
+        "content": "The voice acting is superb.",
+        "rating": 32657,
+        "created_at": "2023-09-21T11:18:09.534Z",
+        "updated_at": "2023-09-21T22:29:59.317Z",
+        "anime_id": "fc43d286-86d0-46e6-938b-55b57c10b074",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "32f36696-14c2-4025-a2c0-b9202af084d5",
+        "title": "Must-Watch",
+        "content": "I can't wait for the next season!",
+        "rating": 90307,
+        "created_at": "2023-09-21T18:40:23.995Z",
+        "updated_at": "2023-09-21T12:04:15.588Z",
+        "anime_id": "d05ac163-e3a6-4578-81be-bd486f71b6d3",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "ca93cff4-994f-4368-916e-bdd7be20d4e8",
+        "action": "Warning",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-21T04:26:26.473Z",
+        "updated_at": "2023-09-22T01:49:40.634Z",
+        "review_id": "432e24b1-a614-4ddd-9fcf-b64c504f4e11",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7c8d468-7d90-450c-8b45-41193c10949f",
+        "action": "Suspension",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T13:20:21.045Z",
+        "updated_at": "2023-09-21T18:28:07.436Z",
+        "review_id": "32f36696-14c2-4025-a2c0-b9202af084d5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b26303c-744a-4e82-9e97-4cd990a5eb8f",
+        "action": "Deletion",
+        "reason": "Harassment",
+        "created_at": "2023-09-21T03:39:51.828Z",
+        "updated_at": "2023-09-22T01:43:09.355Z",
+        "review_id": "7a990d18-77f8-4406-90f8-4d740bac2da9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d352c54b-1649-4b83-ad05-b52dbcdcd22c",
+        "action": "Muting",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-22T00:19:12.426Z",
+        "updated_at": "2023-09-21T18:39:49.340Z",
+        "review_id": "1de1a4db-bf5b-4abe-b8f5-6d703e84afab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3fa15c9b-f129-44a5-b9f0-4613ca62d7c2",
+        "action": "Flagging",
+        "reason": "Impersonation",
+        "created_at": "2023-09-21T06:51:04.042Z",
+        "updated_at": "2023-09-21T03:26:45.603Z",
+        "review_id": "7a990d18-77f8-4406-90f8-4d740bac2da9",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "61212467-e409-41fc-9294-6ee3a19c159c",
+        "email": "Elta.Douglas@roq.tech",
+        "firstName": "Ava",
+        "lastName": "Hand",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93509598",
+        "tenantId": null
+      },
+      {
+        "reference": "1256b19a-1bda-4296-9ce3-7f9442f4a991",
+        "email": "Alexandro_Collier50@roq.tech",
+        "firstName": "Abigale",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70999591",
+        "tenantId": null
+      },
+      {
+        "reference": "3e38ba01-58e9-45c1-be06-0fb8cb247c4c",
+        "email": "Vern.Olson11@roq.tech",
+        "firstName": "Crystel",
+        "lastName": "Boehm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1098.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7657ebec-9d65-49f2-adda-324afa8d4794",
+        "email": "Dan58@roq.tech",
+        "firstName": "Sanford",
+        "lastName": "Langworth",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1017.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2972e490-b3a7-469e-8168-3ec0a271ebeb",
+        "email": "Kieran.Nader@roq.tech",
+        "firstName": "Ava",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/916.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "f7486351-cd0e-4250-9591-90744a1f22e8",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T16:16:53.890Z",
+        "episodes": 82994,
+        "duration": 84084,
+        "status": "Ongoing",
+        "created_at": "2023-09-22T00:01:31.396Z",
+        "updated_at": "2023-09-21T21:30:52.610Z"
+      },
+      {
+        "id": "4b03f5ce-7b63-4039-88cf-17b16ad50abf",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T22:50:43.078Z",
+        "episodes": 98309,
+        "duration": 16869,
+        "status": "Completed",
+        "created_at": "2023-09-21T15:33:28.818Z",
+        "updated_at": "2023-09-21T13:46:45.603Z"
+      },
+      {
+        "id": "75050beb-6118-4a34-94dd-3bb9e02d27db",
+        "title": "Naruto",
+        "genre": "Comedy",
+        "release_date": "2023-09-22T01:19:16.204Z",
+        "episodes": 47316,
+        "duration": 51263,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T13:05:37.216Z",
+        "updated_at": "2023-09-21T10:13:23.870Z"
+      },
+      {
+        "id": "1fef56c3-f596-4949-8458-b2b89340a526",
+        "title": "Dragon Ball Z",
+        "genre": "Drama",
+        "release_date": "2023-09-21T06:10:58.692Z",
+        "episodes": 12634,
+        "duration": 64231,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T20:30:50.987Z",
+        "updated_at": "2023-09-21T07:09:19.250Z"
+      },
+      {
+        "id": "cef570e2-5ea6-476d-84be-8f7e1ecb4ac1",
+        "title": "Death Note",
+        "genre": "Fantasy",
+        "release_date": "2023-09-22T01:20:23.973Z",
+        "episodes": 83900,
+        "duration": 62797,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T06:03:47.076Z",
+        "updated_at": "2023-09-21T06:32:32.923Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "015ac40c-980f-4e96-94d4-07814a207864",
+        "created_at": "2023-09-21T18:44:51.229Z",
+        "updated_at": "2023-09-21T10:16:48.626Z",
+        "anime_id": "75050beb-6118-4a34-94dd-3bb9e02d27db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d5a56c1-60d4-4224-9675-d24a6ced5eab",
+        "created_at": "2023-09-21T09:14:12.334Z",
+        "updated_at": "2023-09-21T02:56:50.108Z",
+        "anime_id": "f7486351-cd0e-4250-9591-90744a1f22e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "693d73a1-eb63-4d64-8d80-0e136ce765c9",
+        "created_at": "2023-09-21T04:48:27.973Z",
+        "updated_at": "2023-09-21T13:17:46.533Z",
+        "anime_id": "4b03f5ce-7b63-4039-88cf-17b16ad50abf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7734406-8444-422a-b716-67f45f8cf9f7",
+        "created_at": "2023-09-21T15:24:21.116Z",
+        "updated_at": "2023-09-21T05:28:31.607Z",
+        "anime_id": "f7486351-cd0e-4250-9591-90744a1f22e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cefe046d-88a4-4311-abef-75dcdfa14e0a",
+        "created_at": "2023-09-22T00:23:38.486Z",
+        "updated_at": "2023-09-21T22:43:59.010Z",
+        "anime_id": "75050beb-6118-4a34-94dd-3bb9e02d27db",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "2304a6ff-c7ff-468a-8edc-27da1bf25db0",
+        "title": "Great Anime",
+        "content": "I absolutely loved this anime!",
+        "rating": 54660,
+        "created_at": "2023-09-21T13:39:22.698Z",
+        "updated_at": "2023-09-21T07:37:59.813Z",
+        "anime_id": "cef570e2-5ea6-476d-84be-8f7e1ecb4ac1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42011f3d-5665-436c-87af-034949a30248",
+        "title": "Highly Recommended",
+        "content": "The characters were well-developed.",
+        "rating": 26638,
+        "created_at": "2023-09-21T04:23:30.926Z",
+        "updated_at": "2023-09-21T16:11:50.475Z",
+        "anime_id": "f7486351-cd0e-4250-9591-90744a1f22e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc7c6c8d-0a8a-429d-8f0a-bb9e983cfe0c",
+        "title": "Disappointing",
+        "content": "The plot was confusing and hard to follow.",
+        "rating": 39625,
+        "created_at": "2023-09-21T23:36:16.408Z",
+        "updated_at": "2023-09-21T14:17:48.968Z",
+        "anime_id": "f7486351-cd0e-4250-9591-90744a1f22e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "983d67b2-a2a0-43f9-9256-22f5da0e7113",
+        "title": "Unexpected Twist",
+        "content": "The ending left me wanting more.",
+        "rating": 71871,
+        "created_at": "2023-09-21T06:56:42.399Z",
+        "updated_at": "2023-09-21T21:52:24.757Z",
+        "anime_id": "75050beb-6118-4a34-94dd-3bb9e02d27db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2ddf080-7f27-4da1-aebf-6a57e722f374",
+        "title": "Captivating Story",
+        "content": "The animation quality was top-notch.",
+        "rating": 88807,
+        "created_at": "2023-09-21T02:16:26.550Z",
+        "updated_at": "2023-09-21T21:50:54.758Z",
+        "anime_id": "4b03f5ce-7b63-4039-88cf-17b16ad50abf",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "54a79915-8ff1-4e91-a14f-f1aa16a260e1",
+        "action": "Warning",
+        "reason": "Violation of Community Guidelines",
+        "created_at": "2023-09-21T08:00:13.783Z",
+        "updated_at": "2023-09-21T06:57:39.099Z",
+        "review_id": "fc7c6c8d-0a8a-429d-8f0a-bb9e983cfe0c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "239d88cf-0f41-4c38-8537-46f96bd4902d",
+        "action": "Suspension",
+        "reason": "Inappropriate Behavior",
+        "created_at": "2023-09-21T14:21:05.500Z",
+        "updated_at": "2023-09-21T03:19:39.545Z",
+        "review_id": "2304a6ff-c7ff-468a-8edc-27da1bf25db0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be9bb892-30b1-4aa1-bd43-557e544d5905",
+        "action": "Ban",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T04:31:21.160Z",
+        "updated_at": "2023-09-21T21:20:14.664Z",
+        "review_id": "2304a6ff-c7ff-468a-8edc-27da1bf25db0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "396eee07-9e36-45a9-b7b6-cdbb0c3e9f08",
+        "action": "Content Removal",
+        "reason": "Hate Speech",
+        "created_at": "2023-09-21T22:48:02.399Z",
+        "updated_at": "2023-09-22T00:52:31.531Z",
+        "review_id": "d2ddf080-7f27-4da1-aebf-6a57e722f374",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b64a710f-7924-447f-aa4d-8f25b3c9f41f",
+        "action": "Account Deactivation",
+        "reason": "Impersonation",
+        "created_at": "2023-09-21T06:45:37.936Z",
+        "updated_at": "2023-09-21T16:30:15.695Z",
+        "review_id": "42011f3d-5665-436c-87af-034949a30248",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b014d9a7-5bde-4c0c-b92e-b8a0f9752253",
+        "email": "Ron.Shanahan-Breitenberg@roq.tech",
+        "firstName": "Evangeline",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76721497",
+        "tenantId": null
+      },
+      {
+        "reference": "d3955ec9-0754-429a-8f25-b50a9020042d",
+        "email": "Eliseo9@roq.tech",
+        "firstName": "Ona",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65405342",
+        "tenantId": null
+      },
+      {
+        "reference": "236a7c93-7415-4220-87f8-67a60608799f",
+        "email": "Dandre.Homenick91@roq.tech",
+        "firstName": "Judd",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52188920",
+        "tenantId": null
+      },
+      {
+        "reference": "095c066f-2831-4931-b11a-c61e1c58361c",
+        "email": "Granville_Stokes90@roq.tech",
+        "firstName": "Jacklyn",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22215282",
+        "tenantId": null
+      },
+      {
+        "reference": "67b129cf-6b2a-40ce-a8e0-b473636ec089",
+        "email": "Elenor.Hintz@roq.tech",
+        "firstName": "Bertha",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8500283",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "64250133-0ab2-4644-b84a-0ae9d39c4528",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T06:32:58.316Z",
+        "episodes": 19731,
+        "duration": 2664,
+        "status": "Ongoing",
+        "created_at": "2023-09-22T01:08:02.274Z",
+        "updated_at": "2023-09-21T02:13:53.416Z"
+      },
+      {
+        "id": "cd0fd63e-f38a-4c0d-a9e3-871926c01e5a",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T11:41:19.913Z",
+        "episodes": 52691,
+        "duration": 89422,
+        "status": "Completed",
+        "created_at": "2023-09-21T22:13:28.278Z",
+        "updated_at": "2023-09-21T07:57:38.955Z"
+      },
+      {
+        "id": "a88b6628-b6c2-4fc6-bc0b-bb023e6237a4",
+        "title": "Naruto",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T19:20:37.050Z",
+        "episodes": 21533,
+        "duration": 69161,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T15:25:43.978Z",
+        "updated_at": "2023-09-21T20:24:30.724Z"
+      },
+      {
+        "id": "d0ca8c81-d3f3-47da-bf4f-846a2302bf42",
+        "title": "Dragon Ball Z",
+        "genre": "Mystery",
+        "release_date": "2023-09-21T12:05:12.660Z",
+        "episodes": 53808,
+        "duration": 74771,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T10:28:43.468Z",
+        "updated_at": "2023-09-21T21:30:00.529Z"
+      },
+      {
+        "id": "091b705b-a4f1-4abd-adea-f74a64c004fe",
+        "title": "Death Note",
+        "genre": "Sci-Fi",
+        "release_date": "2023-09-21T09:08:47.205Z",
+        "episodes": 83544,
+        "duration": 23653,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T03:13:56.052Z",
+        "updated_at": "2023-09-21T08:17:54.178Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "765a6a55-3f66-425f-b4e9-1d6eb2a20536",
+        "created_at": "2023-09-21T15:28:47.716Z",
+        "updated_at": "2023-09-21T05:55:57.293Z",
+        "anime_id": "091b705b-a4f1-4abd-adea-f74a64c004fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e44fb5e8-1b2c-4dda-b19a-374e9fbf4754",
+        "created_at": "2023-09-21T22:16:56.769Z",
+        "updated_at": "2023-09-21T18:42:56.006Z",
+        "anime_id": "091b705b-a4f1-4abd-adea-f74a64c004fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "862b9af3-eaa2-4239-a1b2-dfc01da5180f",
+        "created_at": "2023-09-21T07:14:50.719Z",
+        "updated_at": "2023-09-22T00:35:50.001Z",
+        "anime_id": "d0ca8c81-d3f3-47da-bf4f-846a2302bf42",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9028264-6b4c-4509-91a6-6f5c1728bae5",
+        "created_at": "2023-09-21T02:21:23.114Z",
+        "updated_at": "2023-09-21T11:55:32.390Z",
+        "anime_id": "091b705b-a4f1-4abd-adea-f74a64c004fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc4acf11-3c45-42db-837e-77ae3af9d457",
+        "created_at": "2023-09-21T12:29:17.015Z",
+        "updated_at": "2023-09-21T16:30:31.108Z",
+        "anime_id": "d0ca8c81-d3f3-47da-bf4f-846a2302bf42",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "81f061fd-3b61-4b01-8928-f2f48dabc64b",
+        "title": "Amazing Anime",
+        "content": "I was hooked from the first episode!",
+        "rating": 15283,
+        "created_at": "2023-09-21T23:27:40.096Z",
+        "updated_at": "2023-09-21T12:56:35.187Z",
+        "anime_id": "64250133-0ab2-4644-b84a-0ae9d39c4528",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fcf9c579-e318-4330-9c82-9ac3e261f547",
+        "title": "Highly Recommended",
+        "content": "The characters are well-developed and relatable.",
+        "rating": 56870,
+        "created_at": "2023-09-21T13:16:07.688Z",
+        "updated_at": "2023-09-21T02:26:06.969Z",
+        "anime_id": "cd0fd63e-f38a-4c0d-a9e3-871926c01e5a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f263c682-1762-470d-8890-90e644b0e3df",
+        "title": "Great Storyline",
+        "content": "The plot twists kept me on the edge of my seat.",
+        "rating": 2988,
+        "created_at": "2023-09-22T01:44:14.155Z",
+        "updated_at": "2023-09-21T08:22:01.118Z",
+        "anime_id": "a88b6628-b6c2-4fc6-bc0b-bb023e6237a4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f160abc6-886d-48fa-acfd-ed5db5935300",
+        "title": "Impressive Animation",
+        "content": "The animation quality is top-notch.",
+        "rating": 90025,
+        "created_at": "2023-09-21T14:59:44.720Z",
+        "updated_at": "2023-09-21T08:14:35.720Z",
+        "anime_id": "a88b6628-b6c2-4fc6-bc0b-bb023e6237a4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07ecccf5-bb94-458c-b78a-96dd8dcc653d",
+        "title": "Must-Watch Series",
+        "content": "I can't wait for the next season!",
+        "rating": 50661,
+        "created_at": "2023-09-21T10:34:15.044Z",
+        "updated_at": "2023-09-21T22:21:19.228Z",
+        "anime_id": "a88b6628-b6c2-4fc6-bc0b-bb023e6237a4",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "ec56e4dc-0340-446f-8fa2-c11ec53daf36",
+        "action": "Warn",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-21T14:08:35.453Z",
+        "updated_at": "2023-09-21T09:33:33.111Z",
+        "review_id": "f160abc6-886d-48fa-acfd-ed5db5935300",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a9ecbe9-d985-4038-bdc6-82fbf2af8f65",
+        "action": "Suspend",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T05:59:20.415Z",
+        "updated_at": "2023-09-21T05:48:59.517Z",
+        "review_id": "f160abc6-886d-48fa-acfd-ed5db5935300",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "110abaaf-8793-4fc1-bf3f-fabe8282d428",
+        "action": "Ban",
+        "reason": "Harassment",
+        "created_at": "2023-09-21T21:03:30.212Z",
+        "updated_at": "2023-09-21T20:00:44.718Z",
+        "review_id": "fcf9c579-e318-4330-9c82-9ac3e261f547",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5accd632-943c-4f6c-96a8-73559d9f27e8",
+        "action": "Delete",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-21T16:28:12.703Z",
+        "updated_at": "2023-09-21T07:45:42.875Z",
+        "review_id": "fcf9c579-e318-4330-9c82-9ac3e261f547",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa6cdc22-46d6-4973-835a-a90fdd279e31",
+        "action": "Flag",
+        "reason": "Fake account",
+        "created_at": "2023-09-21T13:44:50.147Z",
+        "updated_at": "2023-09-21T23:13:51.801Z",
+        "review_id": "f160abc6-886d-48fa-acfd-ed5db5935300",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "059496a6-4a6b-4491-8a22-cd89d7c09144",
+        "email": "Brant84@roq.tech",
+        "firstName": "Rosetta",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48248042",
+        "tenantId": null
+      },
+      {
+        "reference": "d818a567-2587-4272-bbe9-9ac70dbd9d47",
+        "email": "Layla42@roq.tech",
+        "firstName": "Sonny",
+        "lastName": "Abbott",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1042.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "575d63db-f30b-4e0d-adb9-b863957e6971",
+        "email": "Karen.Watsica@roq.tech",
+        "firstName": "Jamarcus",
+        "lastName": "Glover",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/389.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e913a9c4-37e1-4ed9-a8f4-aa99a1e5a6d7",
+        "email": "Gregoria.Schaden@roq.tech",
+        "firstName": "Orion",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/868.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "acab47be-914f-4af5-bc26-8c45c9761c5f",
+        "email": "Roman_Franecki@roq.tech",
+        "firstName": "Melba",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56440850",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "47b32888-02d2-4468-9b39-c49e3071d6b9",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T13:20:26.279Z",
+        "episodes": 92006,
+        "duration": 60274,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T18:18:18.613Z",
+        "updated_at": "2023-09-21T19:41:54.176Z"
+      },
+      {
+        "id": "04aba5a8-93e0-4f67-ae3f-5c9446c9a7d2",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T08:29:57.434Z",
+        "episodes": 40850,
+        "duration": 80909,
+        "status": "Completed",
+        "created_at": "2023-09-21T12:11:34.995Z",
+        "updated_at": "2023-09-21T21:55:47.409Z"
+      },
+      {
+        "id": "859e66db-f577-4b6f-81c1-cde889f1fd32",
+        "title": "Naruto",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T09:41:05.348Z",
+        "episodes": 31958,
+        "duration": 4029,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T12:37:06.681Z",
+        "updated_at": "2023-09-22T00:54:50.373Z"
+      },
+      {
+        "id": "a1e9f58f-ede7-4756-986d-7bb36e08f863",
+        "title": "Death Note",
+        "genre": "Mystery",
+        "release_date": "2023-09-22T01:14:11.057Z",
+        "episodes": 95279,
+        "duration": 56702,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T15:06:54.812Z",
+        "updated_at": "2023-09-21T22:13:06.370Z"
+      },
+      {
+        "id": "72f4bf5b-3cd1-4834-9560-f8060dca506a",
+        "title": "Dragon Ball Z",
+        "genre": "Sci-Fi",
+        "release_date": "2023-09-21T16:37:10.396Z",
+        "episodes": 75946,
+        "duration": 1095,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T18:42:39.946Z",
+        "updated_at": "2023-09-21T10:58:48.248Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "593e01a1-8bb1-4c5e-9774-c2a42b43254b",
+        "created_at": "2023-09-21T04:21:44.715Z",
+        "updated_at": "2023-09-22T00:29:18.411Z",
+        "anime_id": "04aba5a8-93e0-4f67-ae3f-5c9446c9a7d2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "353a0f87-25f1-440a-89ce-d6e9bc894c51",
+        "created_at": "2023-09-21T19:59:05.146Z",
+        "updated_at": "2023-09-21T09:49:44.924Z",
+        "anime_id": "47b32888-02d2-4468-9b39-c49e3071d6b9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "806ff844-5cd2-46a0-8040-ca5aafb3ad3e",
+        "created_at": "2023-09-21T08:13:47.081Z",
+        "updated_at": "2023-09-21T11:05:42.483Z",
+        "anime_id": "47b32888-02d2-4468-9b39-c49e3071d6b9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "882dc8ba-f8ff-49b3-b2e4-e1185e7fd262",
+        "created_at": "2023-09-21T11:44:16.817Z",
+        "updated_at": "2023-09-21T16:24:49.602Z",
+        "anime_id": "859e66db-f577-4b6f-81c1-cde889f1fd32",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c03c0fe-f4b7-4e70-b892-98b972d8d617",
+        "created_at": "2023-09-21T13:39:59.400Z",
+        "updated_at": "2023-09-21T21:35:59.068Z",
+        "anime_id": "04aba5a8-93e0-4f67-ae3f-5c9446c9a7d2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "5e51b7bc-4504-4908-bf91-6632a5eb338b",
+        "title": "Great anime!",
+        "content": "I loved every minute of it",
+        "rating": 15399,
+        "created_at": "2023-09-21T20:41:02.970Z",
+        "updated_at": "2023-09-21T17:12:33.855Z",
+        "anime_id": "47b32888-02d2-4468-9b39-c49e3071d6b9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "331299a8-d202-4505-b1ec-c7498a2ac6ce",
+        "title": "Highly recommended",
+        "content": "The characters were well-developed",
+        "rating": 14893,
+        "created_at": "2023-09-21T05:30:49.089Z",
+        "updated_at": "2023-09-21T07:05:17.215Z",
+        "anime_id": "859e66db-f577-4b6f-81c1-cde889f1fd32",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8fbde2b9-3953-4a36-8023-9a92ba8f8c42",
+        "title": "Disappointing",
+        "content": "The plot twist was unexpected",
+        "rating": 74215,
+        "created_at": "2023-09-21T05:04:38.210Z",
+        "updated_at": "2023-09-21T11:37:04.756Z",
+        "anime_id": "859e66db-f577-4b6f-81c1-cde889f1fd32",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3801f1e3-22eb-4b70-89b4-9d5aea38f6fc",
+        "title": "A must-watch",
+        "content": "The animation quality was top-notch",
+        "rating": 58495,
+        "created_at": "2023-09-21T06:53:47.632Z",
+        "updated_at": "2023-09-21T08:35:10.267Z",
+        "anime_id": "47b32888-02d2-4468-9b39-c49e3071d6b9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "686b2301-ee7b-4f83-8245-1603d8dbd819",
+        "title": "Incredible storytelling",
+        "content": "The soundtrack was amazing",
+        "rating": 73672,
+        "created_at": "2023-09-21T08:44:09.442Z",
+        "updated_at": "2023-09-21T13:55:03.232Z",
+        "anime_id": "a1e9f58f-ede7-4756-986d-7bb36e08f863",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "35b2b926-8e9a-4abf-9a82-a1783f784624",
+        "action": "Delete",
+        "reason": "Spamming",
+        "created_at": "2023-09-22T01:03:14.508Z",
+        "updated_at": "2023-09-21T07:49:55.278Z",
+        "review_id": "8fbde2b9-3953-4a36-8023-9a92ba8f8c42",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "582c15c4-b7c7-4c2a-b2d7-c0c0bbecc01e",
+        "action": "Ban",
+        "reason": "Harassment",
+        "created_at": "2023-09-21T03:23:43.642Z",
+        "updated_at": "2023-09-21T12:11:21.167Z",
+        "review_id": "3801f1e3-22eb-4b70-89b4-9d5aea38f6fc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "885beb20-dafc-4588-8b30-00ae9a64497f",
+        "action": "Warn",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-21T14:17:07.321Z",
+        "updated_at": "2023-09-21T03:04:10.402Z",
+        "review_id": "331299a8-d202-4505-b1ec-c7498a2ac6ce",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ce26f07-5ce2-42ab-8040-9dea05fcbd42",
+        "action": "Suspend",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-21T14:42:21.756Z",
+        "updated_at": "2023-09-21T16:05:19.626Z",
+        "review_id": "5e51b7bc-4504-4908-bf91-6632a5eb338b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0202feb5-5bdb-4f38-91bd-353e31c709f3",
+        "action": "Mute",
+        "reason": "Impersonation",
+        "created_at": "2023-09-21T18:57:31.677Z",
+        "updated_at": "2023-09-21T15:33:30.461Z",
+        "review_id": "8fbde2b9-3953-4a36-8023-9a92ba8f8c42",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1fc9e5be-2053-4954-a26f-e022f6ffa1ee",
+        "email": "Josiane.Wilkinson@roq.tech",
+        "firstName": "Alanis",
+        "lastName": "Rolfson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8903923",
+        "tenantId": null
+      },
+      {
+        "reference": "788c7baa-484c-4057-a238-bce9a3216803",
+        "email": "Ivah90@roq.tech",
+        "firstName": "Ignatius",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/230.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "baa0a39a-3a24-4f60-a1e7-39575e9739a3",
+        "email": "Jacynthe_Ryan59@roq.tech",
+        "firstName": "Maia",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1041.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f0710159-1c54-43ca-8df4-aae0ca24ff61",
+        "email": "Amalia.Cruickshank@roq.tech",
+        "firstName": "Faye",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79501476",
+        "tenantId": null
+      },
+      {
+        "reference": "f17cd844-e3cb-44f3-8a7b-7b78817c43c4",
+        "email": "Kelli.Purdy@roq.tech",
+        "firstName": "Assunta",
+        "lastName": "Marvin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61817761",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "5eea63c2-d23d-49f8-a7f9-9ca487b8caf0",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T22:10:46.850Z",
+        "episodes": 26270,
+        "duration": 70966,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T07:48:05.792Z",
+        "updated_at": "2023-09-22T01:25:18.708Z"
+      },
+      {
+        "id": "72d9b6f8-c5e5-4d10-9dd9-4db7b6972b03",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T03:09:42.446Z",
+        "episodes": 75566,
+        "duration": 2469,
+        "status": "Completed",
+        "created_at": "2023-09-22T00:35:08.268Z",
+        "updated_at": "2023-09-21T08:07:23.054Z"
+      },
+      {
+        "id": "6c1def69-a3a5-4675-9aef-e49801d35a59",
+        "title": "Naruto",
+        "genre": "Comedy",
+        "release_date": "2023-09-21T13:08:59.798Z",
+        "episodes": 60003,
+        "duration": 51068,
+        "status": "On Hold",
+        "created_at": "2023-09-21T15:59:49.702Z",
+        "updated_at": "2023-09-21T05:51:41.530Z"
+      },
+      {
+        "id": "db39f9aa-85f2-4f82-982d-d41492ef966d",
+        "title": "Death Note",
+        "genre": "Drama",
+        "release_date": "2023-09-21T12:19:44.270Z",
+        "episodes": 71961,
+        "duration": 55123,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T21:49:39.833Z",
+        "updated_at": "2023-09-21T18:32:33.076Z"
+      },
+      {
+        "id": "806406ba-b786-4079-a895-3cfb2515c9c0",
+        "title": "Dragon Ball Z",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T13:41:41.310Z",
+        "episodes": 28292,
+        "duration": 20490,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T12:23:16.035Z",
+        "updated_at": "2023-09-21T19:20:11.842Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "3be940e6-4445-469e-958a-b480e74078de",
+        "created_at": "2023-09-21T05:09:39.145Z",
+        "updated_at": "2023-09-21T12:11:22.569Z",
+        "anime_id": "5eea63c2-d23d-49f8-a7f9-9ca487b8caf0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0374be3-6276-4215-b362-56f1af9bad49",
+        "created_at": "2023-09-21T09:18:32.233Z",
+        "updated_at": "2023-09-21T04:06:54.120Z",
+        "anime_id": "db39f9aa-85f2-4f82-982d-d41492ef966d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3315635-2976-4cfd-8a0a-245ec45d8411",
+        "created_at": "2023-09-21T16:38:17.105Z",
+        "updated_at": "2023-09-21T19:24:42.996Z",
+        "anime_id": "72d9b6f8-c5e5-4d10-9dd9-4db7b6972b03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "320a9be2-ee56-4da9-95cf-46a5be3b9557",
+        "created_at": "2023-09-21T02:41:41.086Z",
+        "updated_at": "2023-09-21T17:38:03.571Z",
+        "anime_id": "6c1def69-a3a5-4675-9aef-e49801d35a59",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6a0439f-bc87-4ceb-b33d-c845d1a8f54d",
+        "created_at": "2023-09-21T18:46:22.273Z",
+        "updated_at": "2023-09-21T03:22:43.251Z",
+        "anime_id": "72d9b6f8-c5e5-4d10-9dd9-4db7b6972b03",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "876b3c16-88ae-4b4b-a9a9-cf125ddd8e1c",
+        "title": "Great anime!",
+        "content": "I loved the storyline and characters",
+        "rating": 36388,
+        "created_at": "2023-09-21T06:30:57.007Z",
+        "updated_at": "2023-09-21T14:39:39.125Z",
+        "anime_id": "806406ba-b786-4079-a895-3cfb2515c9c0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec1594a7-615f-4c07-bd9d-9543d8512da1",
+        "title": "Highly recommended",
+        "content": "The animation quality is top-notch",
+        "rating": 78316,
+        "created_at": "2023-09-21T10:36:16.920Z",
+        "updated_at": "2023-09-21T03:51:53.951Z",
+        "anime_id": "5eea63c2-d23d-49f8-a7f9-9ca487b8caf0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "185d7761-6b50-4426-ae3c-e3337370902c",
+        "title": "Must watch",
+        "content": "The plot twists kept me engaged",
+        "rating": 17706,
+        "created_at": "2023-09-22T00:41:43.546Z",
+        "updated_at": "2023-09-21T08:48:29.897Z",
+        "anime_id": "5eea63c2-d23d-49f8-a7f9-9ca487b8caf0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "505f8672-b808-4c9a-9877-656b9db07c82",
+        "title": "Disappointing",
+        "content": "The pacing was too slow",
+        "rating": 87824,
+        "created_at": "2023-09-21T16:02:35.845Z",
+        "updated_at": "2023-09-21T07:24:12.565Z",
+        "anime_id": "72d9b6f8-c5e5-4d10-9dd9-4db7b6972b03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ccbd9958-c46f-4041-8a83-27821384e754",
+        "title": "Average",
+        "content": "It didn't live up to my expectations",
+        "rating": 20718,
+        "created_at": "2023-09-21T05:05:26.619Z",
+        "updated_at": "2023-09-22T00:01:11.153Z",
+        "anime_id": "72d9b6f8-c5e5-4d10-9dd9-4db7b6972b03",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "4d0db618-aad1-4f4e-a5e9-16b1bdafa8ea",
+        "action": "Delete",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-21T13:40:53.954Z",
+        "updated_at": "2023-09-21T22:31:23.786Z",
+        "review_id": "ccbd9958-c46f-4041-8a83-27821384e754",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "08f0d3b4-0523-49e1-a93a-d86425ea4e63",
+        "action": "Flag",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T16:38:01.145Z",
+        "updated_at": "2023-09-21T08:42:36.588Z",
+        "review_id": "876b3c16-88ae-4b4b-a9a9-cf125ddd8e1c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e6919df-b60f-4d74-979f-a6e8e693f8f8",
+        "action": "Warn",
+        "reason": "Harassment",
+        "created_at": "2023-09-21T05:47:38.779Z",
+        "updated_at": "2023-09-21T12:47:38.870Z",
+        "review_id": "185d7761-6b50-4426-ae3c-e3337370902c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6804a52-06c0-4753-bc79-dbc75d6aac49",
+        "action": "Suspend",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-22T01:25:59.930Z",
+        "updated_at": "2023-09-21T12:37:44.843Z",
+        "review_id": "876b3c16-88ae-4b4b-a9a9-cf125ddd8e1c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7d3519c-2abe-4fdc-a3f7-0927a36207f1",
+        "action": "Investigate",
+        "reason": "Fake account",
+        "created_at": "2023-09-21T23:32:38.487Z",
+        "updated_at": "2023-09-21T05:39:33.397Z",
+        "review_id": "876b3c16-88ae-4b4b-a9a9-cf125ddd8e1c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7cae7e96-20e4-4a21-9988-43958df9307e",
+        "email": "Eliseo_Vandervort@roq.tech",
+        "firstName": "Zakary",
+        "lastName": "Spencer-Sauer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/154.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1d4caa60-4dc1-4f02-ae0e-12d64b950058",
+        "email": "Hayley_Bradtke60@roq.tech",
+        "firstName": "Augustus",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/501.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8d7f4814-f294-4b95-9882-421a023a82c3",
+        "email": "Pete_Macejkovic15@roq.tech",
+        "firstName": "Kristin",
+        "lastName": "Torphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/795.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "393c1f2e-2f08-4f41-9456-e2e4d30b2767",
+        "email": "Lucile.Wehner@roq.tech",
+        "firstName": "Felicia",
+        "lastName": "Ortiz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51211702",
+        "tenantId": null
+      },
+      {
+        "reference": "657cfe69-1c71-49fb-a5d7-a0bfb854b40e",
+        "email": "Finn.Mosciski27@roq.tech",
+        "firstName": "Annabelle",
+        "lastName": "White",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1138.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "d21a285b-e5bf-40c9-b536-7602c274405c",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T18:53:20.513Z",
+        "episodes": 73170,
+        "duration": 68582,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T05:21:47.882Z",
+        "updated_at": "2023-09-21T04:41:50.060Z"
+      },
+      {
+        "id": "0f713eb7-1869-4323-9ea7-9b5d8130ae29",
+        "title": "Naruto",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T09:22:20.094Z",
+        "episodes": 26365,
+        "duration": 64810,
+        "status": "Completed",
+        "created_at": "2023-09-21T12:24:02.316Z",
+        "updated_at": "2023-09-21T20:17:30.972Z"
+      },
+      {
+        "id": "05ee50ec-a93a-4737-bce1-65b6bbbdb024",
+        "title": "One Piece",
+        "genre": "Comedy",
+        "release_date": "2023-09-21T14:43:46.267Z",
+        "episodes": 52330,
+        "duration": 62884,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T16:45:46.976Z",
+        "updated_at": "2023-09-21T12:06:52.068Z"
+      },
+      {
+        "id": "76816406-0fc6-4bd8-9767-273c0165fc42",
+        "title": "Death Note",
+        "genre": "Drama",
+        "release_date": "2023-09-21T23:33:45.445Z",
+        "episodes": 34343,
+        "duration": 50552,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T16:05:39.053Z",
+        "updated_at": "2023-09-21T02:47:25.147Z"
+      },
+      {
+        "id": "57293cdc-302b-4002-a681-a87f80938f13",
+        "title": "Dragon Ball Z",
+        "genre": "Fantasy",
+        "release_date": "2023-09-21T20:36:51.962Z",
+        "episodes": 43471,
+        "duration": 839,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T19:25:54.417Z",
+        "updated_at": "2023-09-21T19:20:11.466Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "4823ee66-a6fc-48d1-9517-935a75b0f3ba",
+        "created_at": "2023-09-21T07:01:07.629Z",
+        "updated_at": "2023-09-21T12:53:40.731Z",
+        "anime_id": "57293cdc-302b-4002-a681-a87f80938f13",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "453107f0-2421-45f1-bcb5-ed51051e2228",
+        "created_at": "2023-09-21T06:32:44.188Z",
+        "updated_at": "2023-09-21T06:48:17.653Z",
+        "anime_id": "57293cdc-302b-4002-a681-a87f80938f13",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5b1d9f1-f361-48b4-be91-06a349c18c0f",
+        "created_at": "2023-09-21T12:57:38.897Z",
+        "updated_at": "2023-09-21T11:27:52.195Z",
+        "anime_id": "76816406-0fc6-4bd8-9767-273c0165fc42",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "963f9e88-5e91-40cf-97b7-f386fcdd493e",
+        "created_at": "2023-09-21T05:42:22.237Z",
+        "updated_at": "2023-09-21T18:07:06.008Z",
+        "anime_id": "76816406-0fc6-4bd8-9767-273c0165fc42",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d8c3be6f-b76d-4a8a-96a3-ee46e6d1fa87",
+        "created_at": "2023-09-21T17:55:35.206Z",
+        "updated_at": "2023-09-21T08:41:30.696Z",
+        "anime_id": "0f713eb7-1869-4323-9ea7-9b5d8130ae29",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "a17a614a-a049-4a6d-8cba-ebd0f4be47f1",
+        "title": "Great anime!",
+        "content": "I loved this anime. The story was captivating and the characters were well-developed.",
+        "rating": 30870,
+        "created_at": "2023-09-21T18:06:16.348Z",
+        "updated_at": "2023-09-21T03:05:59.028Z",
+        "anime_id": "0f713eb7-1869-4323-9ea7-9b5d8130ae29",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d24a17dc-29c0-4b7d-8c98-d1a34958a886",
+        "title": "Highly recommended",
+        "content": "This anime exceeded my expectations. I couldn't stop watching.",
+        "rating": 75052,
+        "created_at": "2023-09-22T00:34:47.717Z",
+        "updated_at": "2023-09-21T03:37:37.690Z",
+        "anime_id": "57293cdc-302b-4002-a681-a87f80938f13",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf7a25bc-f436-4431-9e92-c974ef84e982",
+        "title": "Disappointing",
+        "content": "I was expecting more from this anime. It didn't live up to the hype.",
+        "rating": 34228,
+        "created_at": "2023-09-21T13:20:43.162Z",
+        "updated_at": "2023-09-21T18:42:01.357Z",
+        "anime_id": "57293cdc-302b-4002-a681-a87f80938f13",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6483ac80-e6a0-421e-b5c0-e99455f160d5",
+        "title": "Must watch",
+        "content": "A must-watch for all anime fans. You won't be disappointed.",
+        "rating": 31023,
+        "created_at": "2023-09-21T22:28:37.997Z",
+        "updated_at": "2023-09-21T09:04:30.060Z",
+        "anime_id": "57293cdc-302b-4002-a681-a87f80938f13",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68b17ae9-ef1f-4e74-a5af-c695ec1ca7f4",
+        "title": "Average",
+        "content": "The anime was okay. It had its moments but nothing extraordinary.",
+        "rating": 25009,
+        "created_at": "2023-09-21T05:56:26.244Z",
+        "updated_at": "2023-09-22T00:12:09.301Z",
+        "anime_id": "05ee50ec-a93a-4737-bce1-65b6bbbdb024",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "70b8215b-3e01-4f12-aae6-1db5d614fdd1",
+        "action": "Ban",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-21T13:06:34.011Z",
+        "updated_at": "2023-09-21T15:06:55.073Z",
+        "review_id": "6483ac80-e6a0-421e-b5c0-e99455f160d5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbff967e-9050-443b-9492-8596fd8ce27f",
+        "action": "Warn",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T05:38:18.521Z",
+        "updated_at": "2023-09-21T08:59:18.502Z",
+        "review_id": "a17a614a-a049-4a6d-8cba-ebd0f4be47f1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0045f04b-059d-4ae6-8c12-1d86aba3e578",
+        "action": "Delete",
+        "reason": "Inappropriate behavior",
+        "created_at": "2023-09-21T12:14:33.960Z",
+        "updated_at": "2023-09-21T22:55:33.924Z",
+        "review_id": "68b17ae9-ef1f-4e74-a5af-c695ec1ca7f4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75489913-a1a4-4c10-9a6e-b65d7c566cfc",
+        "action": "Suspend",
+        "reason": "Harassment",
+        "created_at": "2023-09-21T14:43:24.922Z",
+        "updated_at": "2023-09-21T10:32:23.182Z",
+        "review_id": "6483ac80-e6a0-421e-b5c0-e99455f160d5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9f9d64f-4d76-44c0-bac2-5fddab179b3a",
+        "action": "Mute",
+        "reason": "Fake account",
+        "created_at": "2023-09-21T03:55:21.649Z",
+        "updated_at": "2023-09-22T02:08:49.062Z",
+        "review_id": "cf7a25bc-f436-4431-9e92-c974ef84e982",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d9a78c70-f4dc-46c3-8059-b44f7a495891",
+        "email": "Rowan_Weimann@roq.tech",
+        "firstName": "Dave",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/870.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "74ff242c-c481-4fec-9392-7d4f39562a9e",
+        "email": "Elza.Keebler11@roq.tech",
+        "firstName": "Timothy",
+        "lastName": "Koelpin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/274.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cafceb01-c820-4e74-a3f3-81d1f6aa0cd3",
+        "email": "Harley56@roq.tech",
+        "firstName": "Tressie",
+        "lastName": "Okuneva",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69408654",
+        "tenantId": null
+      },
+      {
+        "reference": "41a94810-2975-45e3-8a2f-4af0469b3478",
+        "email": "Clyde.Wolf80@roq.tech",
+        "firstName": "Camila",
+        "lastName": "Lebsack",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/260.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "826027b2-2f2c-4d55-b3e4-95f8c94c9038",
+        "email": "Cristina81@roq.tech",
+        "firstName": "Bette",
+        "lastName": "Lubowitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/37.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "id": "94d3fe2a-d51f-49f0-81f4-b7d15393246b",
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "release_date": "2023-09-21T06:21:22.301Z",
+        "episodes": 15358,
+        "duration": 83709,
+        "status": "Ongoing",
+        "created_at": "2023-09-21T21:38:23.447Z",
+        "updated_at": "2023-09-21T08:42:01.773Z"
+      },
+      {
+        "id": "9f8104a0-0f7a-4280-bbba-6df00a0b8871",
+        "title": "One Piece",
+        "genre": "Adventure",
+        "release_date": "2023-09-21T11:03:49.709Z",
+        "episodes": 33961,
+        "duration": 68513,
+        "status": "Completed",
+        "created_at": "2023-09-21T22:40:49.633Z",
+        "updated_at": "2023-09-21T03:41:08.915Z"
+      },
+      {
+        "id": "c594f329-1e90-411b-9f27-d75213dabfb2",
+        "title": "Naruto",
+        "genre": "Comedy",
+        "release_date": "2023-09-21T23:02:48.324Z",
+        "episodes": 34396,
+        "duration": 2494,
+        "status": "On Hiatus",
+        "created_at": "2023-09-21T10:18:56.905Z",
+        "updated_at": "2023-09-21T14:41:38.677Z"
+      },
+      {
+        "id": "3fa5ad22-0d3a-448a-9204-f7038b1f7105",
+        "title": "Death Note",
+        "genre": "Drama",
+        "release_date": "2023-09-21T23:43:25.034Z",
+        "episodes": 79563,
+        "duration": 48851,
+        "status": "Upcoming",
+        "created_at": "2023-09-21T13:43:46.287Z",
+        "updated_at": "2023-09-21T12:08:00.494Z"
+      },
+      {
+        "id": "bf33d2b5-eb62-4869-815f-faa425d5c2eb",
+        "title": "Dragon Ball",
+        "genre": "Fantasy",
+        "release_date": "2023-09-22T00:34:53.025Z",
+        "episodes": 46775,
+        "duration": 71310,
+        "status": "Cancelled",
+        "created_at": "2023-09-21T14:11:26.796Z",
+        "updated_at": "2023-09-21T09:41:33.893Z"
+      }
+    ],
+    "watchlist": [
+      {
+        "id": "e6620ba5-ad1e-4a0e-b5d9-f24fca97fd6a",
+        "created_at": "2023-09-21T19:12:08.149Z",
+        "updated_at": "2023-09-22T02:05:14.846Z",
+        "anime_id": "c594f329-1e90-411b-9f27-d75213dabfb2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e1a3c8d-5e69-455e-9a25-a05bd63fd4cd",
+        "created_at": "2023-09-22T01:21:30.249Z",
+        "updated_at": "2023-09-21T05:29:30.358Z",
+        "anime_id": "c594f329-1e90-411b-9f27-d75213dabfb2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb594619-af5f-46c9-b352-4f7aece59388",
+        "created_at": "2023-09-21T14:31:15.652Z",
+        "updated_at": "2023-09-21T19:34:05.676Z",
+        "anime_id": "c594f329-1e90-411b-9f27-d75213dabfb2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d41ad565-a3ef-4db3-bfa9-8ea9155eaee3",
+        "created_at": "2023-09-21T14:46:52.204Z",
+        "updated_at": "2023-09-21T14:36:45.998Z",
+        "anime_id": "9f8104a0-0f7a-4280-bbba-6df00a0b8871",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1df37ecb-2636-4ac9-a613-76dc2c440c1a",
+        "created_at": "2023-09-21T16:59:53.139Z",
+        "updated_at": "2023-09-21T23:22:09.266Z",
+        "anime_id": "94d3fe2a-d51f-49f0-81f4-b7d15393246b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "review": [
+      {
+        "id": "76a02917-98ef-4527-8f07-50cb9df267c1",
+        "title": "Great anime!",
+        "content": "I couldn't stop watching!",
+        "rating": 90106,
+        "created_at": "2023-09-21T02:35:02.186Z",
+        "updated_at": "2023-09-21T19:51:54.608Z",
+        "anime_id": "3fa5ad22-0d3a-448a-9204-f7038b1f7105",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e6c9bc34-bc4b-4e71-939b-7ef132f974ef",
+        "title": "Highly recommended",
+        "content": "The characters are well-developed",
+        "rating": 1028,
+        "created_at": "2023-09-21T14:06:10.620Z",
+        "updated_at": "2023-09-21T04:15:10.165Z",
+        "anime_id": "94d3fe2a-d51f-49f0-81f4-b7d15393246b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c159ebd5-2dec-455e-a924-a9c93a067ef6",
+        "title": "Disappointing",
+        "content": "The animation quality is top-notch",
+        "rating": 90584,
+        "created_at": "2023-09-21T20:58:14.120Z",
+        "updated_at": "2023-09-21T05:11:50.964Z",
+        "anime_id": "9f8104a0-0f7a-4280-bbba-6df00a0b8871",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "587bfdf3-255b-467e-9a1f-0783abb7bea9",
+        "title": "Unexpected plot twists",
+        "content": "The ending left me wanting more",
+        "rating": 39588,
+        "created_at": "2023-09-21T02:55:42.996Z",
+        "updated_at": "2023-09-21T22:18:28.763Z",
+        "anime_id": "bf33d2b5-eb62-4869-815f-faa425d5c2eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14499113-4e25-4a02-9246-3ca73dfb3b6f",
+        "title": "Captivating storyline",
+        "content": "I didn't enjoy it as much as I expected",
+        "rating": 85242,
+        "created_at": "2023-09-21T06:57:25.697Z",
+        "updated_at": "2023-09-21T11:32:46.668Z",
+        "anime_id": "bf33d2b5-eb62-4869-815f-faa425d5c2eb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "moderation": [
+      {
+        "id": "99818dc6-2801-4376-bbbf-0db12ffc832c",
+        "action": "Warning",
+        "reason": "Inappropriate content",
+        "created_at": "2023-09-21T06:55:41.166Z",
+        "updated_at": "2023-09-21T06:21:25.969Z",
+        "review_id": "e6c9bc34-bc4b-4e71-939b-7ef132f974ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cde80ecf-537d-474e-9b5d-01f61198c54c",
+        "action": "Suspension",
+        "reason": "Spamming",
+        "created_at": "2023-09-21T21:02:41.017Z",
+        "updated_at": "2023-09-22T02:02:39.459Z",
+        "review_id": "e6c9bc34-bc4b-4e71-939b-7ef132f974ef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "193c8ec0-a6ce-4fd5-a9b9-e4d19249123a",
+        "action": "Deletion",
+        "reason": "Violation of community guidelines",
+        "created_at": "2023-09-21T15:33:33.177Z",
+        "updated_at": "2023-09-21T14:54:07.202Z",
+        "review_id": "c159ebd5-2dec-455e-a924-a9c93a067ef6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c14cdc0-b082-418c-ac65-b249988efe32",
+        "action": "Edit",
+        "reason": "Misleading information",
+        "created_at": "2023-09-22T01:26:49.482Z",
+        "updated_at": "2023-09-21T02:53:16.069Z",
+        "review_id": "76a02917-98ef-4527-8f07-50cb9df267c1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d06c28cd-0c58-4a79-bad7-bb1577459518",
+        "action": "Approval",
+        "reason": "Offensive language",
+        "created_at": "2023-09-21T05:42:38.248Z",
+        "updated_at": "2023-09-21T02:52:11.445Z",
+        "review_id": "c159ebd5-2dec-455e-a924-a9c93a067ef6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c52fbdfa-ec0b-42e4-869a-fdbd93ef8a5a",
+        "email": "Pearl_Fadel@roq.tech",
+        "firstName": "Deondre",
+        "lastName": "West",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92377010",
+        "tenantId": null
+      },
+      {
+        "reference": "bfb454e4-3d06-4267-814a-ae2c46f30381",
+        "email": "Cara.Witting82@roq.tech",
+        "firstName": "Marcelina",
+        "lastName": "Orn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/68.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b65055a2-908f-441f-be37-0e7706b1e98c",
+        "email": "Arne12@roq.tech",
+        "firstName": "Arvilla",
+        "lastName": "Mosciski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72178626",
+        "tenantId": null
+      },
+      {
+        "reference": "90574050-b805-4410-8461-8f4a83ecbb00",
+        "email": "Leone37@roq.tech",
+        "firstName": "Bette",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71938128",
+        "tenantId": null
+      },
+      {
+        "reference": "fda442aa-fb60-49f4-8119-b9e234f3ce68",
+        "email": "Alex81@roq.tech",
+        "firstName": "Ellen",
+        "lastName": "Treutel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99668409",
+        "tenantId": null
+      }
+    ]
+  }
+]
